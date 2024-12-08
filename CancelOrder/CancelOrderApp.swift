@@ -1,10 +1,3 @@
-//
-//  CancelOrderApp.swift
-//  CancelOrder
-//
-//  Created by Nikolay Ratushnyak on 08.12.2024.
-//
-
 import SwiftUI
 
 @main
